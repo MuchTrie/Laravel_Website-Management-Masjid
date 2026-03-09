@@ -161,13 +161,6 @@ Buka browser: `http://127.0.0.1:8000`
 
 ---
 
-## 📖 Dokumentasi
-
-- 📖 **[PANDUAN_INSTALASI_DAN_PENGGUNAAN.md](PANDUAN_INSTALASI_DAN_PENGGUNAAN.md)** — Panduan instalasi & penggunaan lengkap
-- ⚡ **[QUICK_START.md](QUICK_START.md)** — Quick start guide
-- 📋 **[INTEGRASI_LENGKAP.md](INTEGRASI_LENGKAP.md)** — Dokumentasi teknis lengkap (struktur DB, routes, integrasi modul)
-
----
 
 <div align="center">
   <sub>Dibuat dengan ❤️ untuk Masjid Al-Ikhlas &nbsp;·&nbsp; Laravel 12 &nbsp;·&nbsp; 2025</sub>
